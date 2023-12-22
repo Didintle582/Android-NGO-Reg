@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "119495640430",
+    "firebase_url": "https://onkarabiledayaftercare-869d6.firebaseio.com",
+    "project_id": "onkarabiledayaftercare-869d6",
+    "storage_bucket": "onkarabiledayaftercare-869d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119495640430:android:c6c4b4504c072bfa54ed7f",
+        "android_client_info": {
+          "package_name": "com.example.onkarabiledayaftercare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119495640430-7357im8g5hq0ir35cnnd19dti7s92st7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.onkarabiledayaftercare",
+            "certificate_hash": "bdf66f1e05aa91564d828fe3feb0ac0cc6f00a8b"
+          }
+        },
+        {
+          "client_id": "119495640430-un4uskl07klm8mi8sljhtccj0bqr10tp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4aK1SDH3dZNvcccZfBWnIYKC8Y3P1v9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119495640430-un4uskl07klm8mi8sljhtccj0bqr10tp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
